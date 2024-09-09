@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382404994037",
+    "project_id": "crudce",
+    "storage_bucket": "crudce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382404994037:android:738d09da93c8774936f6bc",
+        "android_client_info": {
+          "package_name": "crud.ce0206"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnWxH4she-KAvgqzcreTdhL5QsuO78gNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
